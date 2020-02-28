@@ -1,0 +1,5 @@
+1: login and sign up remember me option
+2: category list update in edit modal!
+3:after edit show the editor in the post before posted by
+<input type="text" id="EditedBy<?php echo $id; ?>" value="<?php echo $editedby; ?>">
+4:carousel dynamic
